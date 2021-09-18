@@ -1,0 +1,1 @@
+create table customer(id Number primary key, firstname varchar(50), lastname varchar(50) );
